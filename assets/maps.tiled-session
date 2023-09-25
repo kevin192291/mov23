@@ -1,0 +1,65 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "00.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "00.tmx": {
+            "scale": 1.20234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 9.148797920727759,
+                "y": 126.83560753736191
+            }
+        },
+        "Overworld (Light).tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "m.tmj": {
+            "scale": 2.7683593749999997,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 127.51234655002118,
+                "y": 127.69295893890222
+            }
+        },
+        "m.tmx": {
+            "scale": 2.7683593749999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.23479610554537,
+                "y": 128.0541837166643
+            }
+        }
+    },
+    "frame.defaultDuration": 400,
+    "last.exportedFilePath": "/home/kevin/source/repos/personal/cpp/cmake-sfml-project/assets",
+    "last.imagePath": "/home/kevin/source/repos/personal/cpp/cmake-sfml-project/assets/Old Tilesets",
+    "map.height": 16,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 16,
+    "openFiles": [
+        "Overworld (Light).tsj",
+        "00.tmx"
+    ],
+    "project": "maps.tiled-project",
+    "recentFiles": [
+        "m.tmx",
+        "Overworld (Light).tsj",
+        "00.tmx"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
